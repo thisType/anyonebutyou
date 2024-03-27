@@ -1,0 +1,76 @@
+body{
+    background-color: #f2e5e1;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 1.1em;
+}
+
+
+
+p.mypageslink{
+    text-align: center;
+}
+
+p.mypageslink a{
+
+    padding: 10px;
+    text-decoration: none;
+    background-color: #735C67;
+    color: #F2ACB2;
+
+
+}
+h1{
+    text-align: center;
+}
+
+p.mypageslink a:hover{
+
+    background-color:#261226;
+
+}
+td.content{
+
+    padding-left: 6%;
+    padding-right: 6%;
+}
+p.anchor{
+    text-align: center;
+    font-weight: bold;
+    
+}
+a.anchorlink{
+
+       text-align: center;
+    color:blue;    
+
+}
+a.anchorlink:hover{
+
+      text-decoration: underline;
+      text-decoration-style: wavy;
+
+}
+a.internetlinks{
+
+    color:blueviolet;
+
+}
+a.internetlinks:hover{
+    text-decoration-style: double;
+}
+
+a.emaillink{
+    color:darkred;
+    font-weight: bold;
+}
+a.emaillink:hover{
+          font-style: italic;
+}
+
+a.mylinks{
+    color:darkcyan;
+}
+a.mylinks:hover{
+    text-decoration-style: dashed;
+}
